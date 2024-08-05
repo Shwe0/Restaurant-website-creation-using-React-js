@@ -1,11 +1,11 @@
 # Restaurant-website-creation-using-React-js
 1. Project Overview
 Objective: Develop a modern and responsive website for a restaurant that showcases the menu, location, and other relevant information, and allows users to interact with the site seamlessly.
-2. Technologies Used
-HTML: Used for structuring the content of the website. It defines the layout of the restaurant’s pages, including the home page, menu, about us, and contact information.
-CSS: Used for styling the website, ensuring it is visually appealing and aligned with the restaurant's branding. This includes layout, colors, fonts, and responsive design to adapt to different screen sizes.
-JavaScript: Adds interactivity to the website. For example, it can be used to create dynamic elements like interactive menus, form validations, and other user-driven interactions.
-ReactJS: Utilized to build a dynamic and component-based user interface. React’s component-based architecture allows for reusable components and efficient updates to the UI.
+2. Technologies Used:
+1.HTML: Used for structuring the content of the website. It defines the layout of the restaurant’s pages, including the home page, menu, about us, and contact information.
+2.CSS: Used for styling the website, ensuring it is visually appealing and aligned with the restaurant's branding. This includes layout, colors, fonts, and responsive design to adapt to different screen sizes.
+3.JavaScript: Adds interactivity to the website. For example, it can be used to create dynamic elements like interactive menus, form validations, and other user-driven interactions.
+4.ReactJS: Utilized to build a dynamic and component-based user interface. React’s component-based architecture allows for reusable components and efficient updates to the UI.
 3. Project Features
 Home Page: Displays an attractive landing page with the restaurant’s branding, a hero image, and key information like the restaurant’s name and tagline.
 Menu Page: Presents the restaurant’s menu with categories and items. JavaScript can be used to filter and sort the menu items dynamically.
