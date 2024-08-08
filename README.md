@@ -27,3 +27,9 @@ Component Reusability: Managing reusable components in React to avoid redundant 
 Interactivity: Implementing dynamic features with JavaScript and React to enhance user engagement.
 6. Outcome
 User Experience: The final product is a user-friendly, visually appealing, and responsive website that effectively represents the restaurant and facilitates user interactions.
+![Home page](https://github.com/user-attachments/assets/a85a6136-8f94-4179-8ce6-f23eca3c724b)
+![Menu page](https://github.com/user-attachments/assets/18d58915-fafb-4f71-a9b8-f18240630ff3)
+![About page](https://github.com/user-attachments/assets/3080dcfd-8298-4771-a8be-40369403f07f)
+![contact page](https://github.com/user-attachments/assets/4a68ee09-4f5a-4670-a57c-95c57934424a)
+
+
